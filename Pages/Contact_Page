@@ -38,11 +38,11 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                     <div class="navbar-nav ms-auto">
-                        <a class="nav-link active" aria-current="page" href="./index.html">Home</a>
+                        <a class="nav-link" aria-current="page" href="/index.html">Home</a>
                         <a class="nav-link" aria-current="page" href="#">Products</a>
                         <a class="nav-link" aria-current="page" href="#">Uses</a>
                         <a class="nav-link" aria-current="page" href="#">About Us</a>
-                        <a class="nav-link" aria-current="page" href="./Pages/Contact_Page">Contact Us</a>
+                        <a class="nav-link active" aria-current="page" href="/Pages/Contact_Page">Contact Us</a>
                     </div>
                 </div>
             </div>
