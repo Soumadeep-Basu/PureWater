@@ -1,0 +1,16 @@
+
+/* Set the font for the body  */
+body{
+    font-family: "brandon-grotesque", sans-serif;
+font-weight: 700;
+font-style: normal;
+
+}
+
+
+/* Create Flex box for the contact page */
+.Contact_Container{
+    
+    width: 100%;
+
+}
